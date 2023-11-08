@@ -36,6 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+ ![WhatsApp Image 2023-11-08 at 19 31 47_6381bbed](https://github.com/varshasarathy/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/150255138/e38763ac-b368-47cf-9093-298c0b7c0a6e)
+
  
  
  ## RESULT
